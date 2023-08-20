@@ -1,3 +1,3 @@
 void main(){
-  print('ini adalah pemecahan cinflik branch featureA');
+  print('ini adalah pemecahan cinflik branch featureA branch');
 }
